@@ -3,4 +3,4 @@
 
 Further details can be found here: https://www.ehmtheblueline.com/forums/viewtopic.php?f=88&t=8755
 
-The CSD Patch was last compiled with Microsoft Visual Studio 2013.
+The tool was last compiled with Microsoft Visual Studio 2013.
